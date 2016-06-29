@@ -1,4 +1,3 @@
-layout_spectrum: 0.10419833962805569
 typography_spectrum: 0.6069401116110384
 color:
   brandStrength: 0.04136497504077852
@@ -11,4 +10,12 @@ color:
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
+layout_spectrum: 0.10419833962805569
+author:
+  name: Chelsea Parker
+  email: info@thedesignjedi.com
+  url: thedesignjedi.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/07ee81ba-9032-466b-bb75-dffac5258fbe.png
 name: The Design Jedi
+title: This IS the design site you've been looking for.
