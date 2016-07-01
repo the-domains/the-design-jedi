@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[This IS the design site you've been looking for.]]></title>
         <description><![CDATA[This IS the design site you've been looking for.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-design-jedi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 02:48:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 02:48:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-design-jedi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Mug with the Power]]></title>
+            <description><![CDATA[<article><h1>The Mug with the Power</h1><p>Be the babe at the office with the power of Voodoo (who-do?) with this custom Jareth illustration mug, available for purchase online at Society6.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11b8d6bc039cff395081b419880d9493/noop.jpg?input=https%3A%2F%2F01.img.society6.com%2Fsociety6%2Fimg%2FmtluPR76G2FAjmA5wTAITNhr3-g%2Fw_550%2Fcoffee-mugs%2Fsmall%2Fright%2Fgreybg%2F~artwork%2Fs6-0069%2Fa%2F28245693_13270211%2F~~%2Fthe-babe-with-the-power-mugs.jpg"></article>]]></description>
+            <link>https://society6.com/product/the-babe-with-the-power_mug#s6-4141957p30a27v199</link>
+            <guid isPermaLink="false">5f0bb5c1-19fb-47c5-b5e6-fa48a828168d</guid>
+            <pubDate>Fri, 01 Jul 2016 02:48:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World Champion iPhone Case]]></title>
             <description><![CDATA[<article><h1>World Champion iPhone Case</h1><p>Show everyone why you're Rolex-wearin, diamond ring wearin, kiss stealin', wheelin' dealin, son of a gun with this custom phone case - available for purchase on Society6. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/923176eac7c551aa0fecdc158db02ad5/noop.jpg?input=https%3A%2F%2F01.img.society6.com%2Fsociety6%2Fimg%2F46oFVW0D_CdvPKnUSR5JIwj7l3I%2Fw_550%2Fcases%2Fiphone6%2Fslim%2Fback%2F~artwork%2Fs6-0052%2Fa%2F22392255_7967436%2F~~%2Fworld-champion-cases.jpg"></article>]]></description>
