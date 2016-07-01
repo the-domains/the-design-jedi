@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[This IS the design site you've been looking for.]]></title>
+        <description><![CDATA[This IS the design site you've been looking for.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 02:48:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[World Champion iPhone Case]]></title>
+            <description><![CDATA[<article><h1>World Champion iPhone Case</h1><p>Show everyone why you're Rolex-wearin, diamond ring wearin, kiss stealin', wheelin' dealin, son of a gun with this custom phone case - available for purchase on Society6. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/923176eac7c551aa0fecdc158db02ad5/noop.jpg?input=https%3A%2F%2F01.img.society6.com%2Fsociety6%2Fimg%2F46oFVW0D_CdvPKnUSR5JIwj7l3I%2Fw_550%2Fcases%2Fiphone6%2Fslim%2Fback%2F~artwork%2Fs6-0052%2Fa%2F22392255_7967436%2F~~%2Fworld-champion-cases.jpg"></article>]]></description>
+            <link>https://society6.com/product/world-champion_iphone-case#s6-3546828p20a9v375a52v377</link>
+            <guid isPermaLink="false">87c30ad6-f713-47fe-ab33-b1465c4b1c14</guid>
+            <pubDate>Fri, 01 Jul 2016 02:48:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
