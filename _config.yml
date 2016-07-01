@@ -1,21 +1,33 @@
-typography_spectrum: 0.6069401116110384
+author:
+  name: Chelsea Parker
+  email: info@thedesignjedi.com
+  url: thedesignjedi.com
+title: This IS the design site you've been looking for.
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/07ee81ba-9032-466b-bb75-dffac5258fbe.png
 color:
-  brandStrength: 0.04136497504077852
-  lightness: 0.7312569259665906
   saturation: 0.39385283482261
-  rhythmicContrast: 0.21940332907252014
+  brandStrength: 0.04136497504077852
+  rhythmicContrast: 0.2194033290725201
   brandColors:
     - '#962D3E'
     - '#343642'
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
-layout_spectrum: 0.10419833962805569
-author:
-  name: Chelsea Parker
-  email: info@thedesignjedi.com
-  url: thedesignjedi.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/07ee81ba-9032-466b-bb75-dffac5258fbe.png
+  lightness: 0.7312569259665906
+typography_spectrum: 0.6069401116110384
+layout_spectrum: 1
 name: The Design Jedi
-title: This IS the design site you've been looking for.
