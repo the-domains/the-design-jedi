@@ -18,16 +18,16 @@ collections:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/07ee81ba-9032-466b-bb75-dffac5258fbe.png
 color:
-  saturation: 0.3831039175856858
-  brandStrength: 0.1978506844025105
-  rhythmicContrast: 0.4263005452230573
+  saturation: 0.3961197908502072
+  brandStrength: 0.3336048142518848
+  rhythmicContrast: 0.2740130184683949
   brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
-  lightness: 0.3261520157102495
-typography_spectrum: 0.9382979
-layout_spectrum: 0.9
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  lightness: 0.9578185179270804
+typography_spectrum: 0.35415531951002777
+layout_spectrum: 0.6074987256433815
 name: The Design Jedi
